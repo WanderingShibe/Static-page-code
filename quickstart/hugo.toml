@@ -1,0 +1,4 @@
+baseURL = 'https://wanderingshibe.duckdns.org/'
+languageCode = 'en-us'
+title = 'Infinte Ramblings'
+theme = 'm10c'
