@@ -1,0 +1,50 @@
+name: CI
+run-name: Zola blog deployment
+on:
+  push:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    environment: deploy
+    steps:
+      - name: Checkout the current branch
+        uses: actions/checkout@v3
+
+      - name: Lint Ansible
+        uses: ansible/ansible-lint-action@v4.1.0
+        with:
+        path: "New-Static-Page-IAC/Static-page-IAC/ansible-code"
+
+      - name: Lint Terraform
+        uses: hashicorp/setup-terraform@v1
+        with:
+        terraform_version: 1.7.3
+
+      - name: Initialize the ssh-agent
+        uses: webfactory/ssh-agent@v0.4.1
+        with:
+          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "latest"
+
+      - name: Build the website
+        run: hugo --minify
+
+      - name: Scan the host key
+        run:
+          mkdir -p ~/.ssh/ && ssh-keyscan -H $DEPLOY_SERVER >>
+          ~/.ssh/known_hosts
+        env:
+          DEPLOY_SERVER: ${{ secrets.DEPLOY_SERVER }}
+
+      - name: Deploy the website
+        run: >-
+          rsync -avx --delete --exclude '.ssh' public/
+          $DEPLOY_USERNAME@$DEPLOY_SERVER:./
+        env:
+          DEPLOY_SERVER: ${{ secrets.DEPLOY_SERVER }}
+          DEPLOY_USERNAME: ${{ secrets.DEPLOY_USERNAME }}
