@@ -21,3 +21,5 @@ New post
 
 ## Static Webpage
 This is the start of the static page write up!
+
+This is another edit to see if VPS configuration works!
