@@ -19,6 +19,10 @@
           with:
             hugo-version: latest
             extended: true
+
+        - name: Update theme
+          run: git submodule update --init --recursive
+
           
         - name: Build website with Hugo
           run: hugo
