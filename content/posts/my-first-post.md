@@ -17,13 +17,4 @@ This is my first hugo test blog!
 MAIN TEST RIGHT HERE
 
 ### Test Heading
-
-TEST TO SEE IF CI/CD IS WORKING
-
-NEW TEST TO SEE IF WORKING
-
-*test*
-
-Another test
-
-2nd test!
+Test for another time!
