@@ -17,11 +17,4 @@ This is my first hugo test blog!
 MAIN TEST RIGHT HERE
 
 ### Test Heading
-Test for another time!
-
-WHY IS THIS WORKING LMAO
-
-TEST
-
-
-AGAIN LMAO
+New post
