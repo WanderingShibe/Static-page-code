@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Infinte Ramblings</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://wanderingshibe.xyz/posts/</link>
     <description>Recent content in Posts on Infinte Ramblings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Mar 2024 00:07:46 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://wanderingshibe.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <title>Deploying this webpage</title>
+      <link>http://wanderingshibe.xyz/posts/my-first-post/</link>
       <pubDate>Mon, 04 Mar 2024 00:07:46 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!&#xA;This is a review for the N100 CPU lol!&#xA;This is another test wtf lol!</description>
+      <guid>http://wanderingshibe.xyz/posts/my-first-post/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!&#xA;This is my first hugo test blog!&#xA;MAIN TEST RIGHT HERE&#xA;Test Heading test</description>
     </item>
   </channel>
 </rss>

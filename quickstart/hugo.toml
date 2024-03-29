@@ -1,4 +1,19 @@
-baseURL = 'https://wanderingshibe.duckdns.org/'
+baseURL = 'http://wanderingshibe.xyz/'
 languageCode = 'en-us'
 title = 'Infinte Ramblings'
 theme = 'm10c'
+
+[params]
+  subtitle = 'The Best Widgets on Earth'
+  description = 'My personal blog where I write about Devops related projects and other random things.'
+
+
+[[params.social]]
+  icon = "github"
+  name = "My Github"
+  url = "https://github.com/WanderingShibe/"
+
+[[params.social]]
+  icon = "linkedin"
+  name = "My Linkdeln"
+  url = "https://www.linkedin.com/in/karl-odukwe/"

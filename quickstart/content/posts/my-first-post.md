@@ -1,5 +1,5 @@
 +++
-title = 'My First Post'
+title = 'Deploying this webpage'
 date = 2024-03-04T00:07:46Z
 draft = false
 +++
@@ -10,6 +10,13 @@ This is **bold** text, and this is *emphasized* text.
 
 Visit the [Hugo](https://gohugo.io) website!
 
-This is a review for the N100 CPU lol!
+![Scenario 1: Test](/avatar.jpg)
 
-This is another test wtf lol!
+This is my first hugo test blog!
+
+MAIN TEST RIGHT HERE
+
+### Test Heading
+
+*test*
+
