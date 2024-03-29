@@ -21,7 +21,7 @@
             extended: true
 
         - name: Build website with Hugo
-          run: hugo --minify
+          run: hugo
 
         - name: Deploy website with rsync
           uses: burnett01/rsync-deployments@5.2
