@@ -20,6 +20,9 @@
             hugo-version: latest
             extended: true
 
+        - name: Checkout submodules
+          run: git submodule update --init --recursive
+          
         - name: Build website with Hugo
           run: hugo
 
