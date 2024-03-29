@@ -18,3 +18,6 @@ MAIN TEST RIGHT HERE
 
 ### Test Heading
 New post
+
+## Static Webpage
+This is the start of the static page write up!
