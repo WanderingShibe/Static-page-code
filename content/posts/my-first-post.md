@@ -12,7 +12,7 @@ Visit the [Hugo](https://gohugo.io) website!
 
 This is my first hugo test blog!
 
-![Avatar](/static/images/avatar.jpg)
+![Avatar](/images/avatar.jpg)
 
 MAIN TEST RIGHT HERE
 
@@ -22,10 +22,4 @@ New post
 ## Static Webpage
 This is the start of the static page write up!
 
-This is another edit to see if VPS configuration works!
-
-Project complete!!!
-
-YES (check if image updates as well)
-
-Again
+Just another test
