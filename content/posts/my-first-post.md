@@ -12,7 +12,7 @@ Visit the [Hugo](https://gohugo.io) website!
 
 This is my first hugo test blog!
 
-![Avatar](/images/avatar.jpg)
+![Avatar](/avatar.jpg)
 
 MAIN TEST RIGHT HERE
 
