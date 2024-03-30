@@ -23,3 +23,8 @@ New post
 This is the start of the static page write up!
 
 Just another test
+
+## Infrastructure as Code 
+
+
+## Static Page Generator
