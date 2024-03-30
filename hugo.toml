@@ -2,7 +2,7 @@ baseURL = 'http://wanderingshibe.xyz/'
 languageCode = 'en-us'
 title = 'Infinte Ramblings'
 theme = 'm10c'
-avatar = static\images\avatar.jpg
+avatar = 'static\images\avatar.jpg'
 
 [params]
   subtitle = 'The Best Widgets on Earth'
