@@ -12,6 +12,8 @@ Visit the [Hugo](https://gohugo.io) website!
 
 This is my first hugo test blog!
 
+![Avatar](/static/images/avatar.jpg)
+
 MAIN TEST RIGHT HERE
 
 ### Test Heading
