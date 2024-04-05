@@ -23,6 +23,10 @@
         - name: Update theme
           run: git submodule update --init --recursive
 
+
+        - name: Build draft posts
+          run: hugo -D
+
           
         - name: Build website with Hugo
           run: hugo
