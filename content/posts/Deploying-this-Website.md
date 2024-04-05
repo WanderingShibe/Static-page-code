@@ -5,7 +5,7 @@ draft = false
 +++
 
 ## Introduction
-Welcome to the first page of my personal blog! The purpose of this blog is for me to write about personal projects and other things I'm doing at the moment. I figured the most appropriate way to kick off this blog is give an overview as to why it was created and how. As for the former, I wanted a blog to catalogue and provide an indepth write-up for the various projects and certifications I will pursue. Initially, options such as Wordpress or Squarespace were considered, as a fast an easy way to get it up and running. After ruminating on these options, I decided to take the simple process of creating a blog in a different direction. 
+ I figured the most appropriate way to kick off this blog is give an overview as to why it was created and how. As for the former, I wanted a blog to catalogue and provide an indepth write-up for the various projects and certifications I will pursue. Initially, options such as Wordpress or Squarespace were considered, as a fast an easy way to get it up and running. After ruminating on these options, I decided to take the simple process of creating a blog in a different direction. 
 
 One which faciliated hands-on experience with multiple technologies and subject domains. This involved handling all parts of the creation of the blog, ranging from setting up and configuring the VPS the blog is hosted on, purchasing a domain name, and handling the networking and web server to get the site up and running.
 
