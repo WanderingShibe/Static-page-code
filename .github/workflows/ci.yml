@@ -27,9 +27,7 @@
         - name: Build website with Hugo
           run: hugo
 
-        - name: Add additional content
-          run: hugo server -D
-
+          
         - name: Deploy website with rsync
           uses: burnett01/rsync-deployments@5.2
           with:
