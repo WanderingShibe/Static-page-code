@@ -6,4 +6,7 @@ draft = true
 
 # Introduction
 Welcome to my site!
+
 Test content
+
+If this content shows up, then CI CD pipeline is working!
