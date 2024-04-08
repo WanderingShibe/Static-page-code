@@ -5,8 +5,4 @@ draft = true
 +++
 
 # Introduction
-Welcome to my site!
-
-Test content
-
-If this content shows up, then CI CD pipeline is working!
+Welcome to my person site, Infinite Ramblings! (name is still pending at the moment). This site will be where I go over any projects I'm doing, or just blogging about ramdom tech related things. Figured the internet didn't have enogugh tech blogs, so my valuable insights will be breaking new ground!
