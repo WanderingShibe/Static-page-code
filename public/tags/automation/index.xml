@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automation on Infinte Ramblings</title>
+    <link>http://wanderingshibe.xyz/tags/automation/</link>
+    <description>Recent content in Automation on Infinte Ramblings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Mar 2024 00:07:46 +0000</lastBuildDate>
+    <atom:link href="http://wanderingshibe.xyz/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deploying this webpage</title>
+      <link>http://wanderingshibe.xyz/posts/deploying-this-website/</link>
+      <pubDate>Mon, 04 Mar 2024 00:07:46 +0000</pubDate>
+      <guid>http://wanderingshibe.xyz/posts/deploying-this-website/</guid>
+      <description>Introduction I figured the most appropriate way to kick off this blog is give an overview as to why it was created and how. As for the former, I wanted a blog to catalogue and provide an in-depth write-up for the various projects and certifications I will pursue. Initially, options such as WordPress or Squarespace were considered, as a fast an easy way to get it up and running. After ruminating on these options, I decided to take the simple process of creating a blog in a different direction.</description>
+    </item>
+  </channel>
+</rss>

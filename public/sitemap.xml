@@ -8,11 +8,23 @@
     <loc>http://wanderingshibe.xyz/posts/</loc>
     <lastmod>2024-07-22T14:19:43+01:00</lastmod>
   </url><url>
+    <loc>http://wanderingshibe.xyz/tags/automation/</loc>
+    <lastmod>2024-03-04T00:07:46+00:00</lastmod>
+  </url><url>
+    <loc>http://wanderingshibe.xyz/tags/cloud/</loc>
+    <lastmod>2024-03-04T00:07:46+00:00</lastmod>
+  </url><url>
     <loc>http://wanderingshibe.xyz/posts/deploying-this-website/</loc>
+    <lastmod>2024-03-04T00:07:46+00:00</lastmod>
+  </url><url>
+    <loc>http://wanderingshibe.xyz/tags/devops/</loc>
+    <lastmod>2024-03-04T00:07:46+00:00</lastmod>
+  </url><url>
+    <loc>http://wanderingshibe.xyz/tags/</loc>
     <lastmod>2024-03-04T00:07:46+00:00</lastmod>
   </url><url>
     <loc>http://wanderingshibe.xyz/categories/</loc>
   </url><url>
-    <loc>http://wanderingshibe.xyz/tags/</loc>
+    <loc>http://wanderingshibe.xyz/projects/</loc>
   </url>
 </urlset>

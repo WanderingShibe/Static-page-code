@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AWS on Infinte Ramblings</title>
+    <link>http://localhost:1313/tags/aws/</link>
+    <description>Recent content in AWS on Infinte Ramblings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Jul 2024 14:19:43 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EKS Deployed Flask Application</title>
+      <link>http://localhost:1313/posts/eks-deployed-flask-application/</link>
+      <pubDate>Mon, 22 Jul 2024 14:19:43 +0100</pubDate>
+      <guid>http://localhost:1313/posts/eks-deployed-flask-application/</guid>
+      <description>Shibazon Welcome to Shibazon a Flask applications deployed using Elastic Kubernetes Service (EKS) application on AWS!&#xA;The purpose of this project is to gain better experience with the following services:&#xA;AWS Elastic Kubernetes Service (EKS) Amazon Relational Database Service (RDS) Amazon CloudFormation Amazon CodePipeline Docker Kubernetes Helm Sadly, Dragon&amp;rsquo;s Den hasn&amp;rsquo;t gotten back to me yet. Their loss honestly&amp;hellip;&#xA;I&amp;rsquo;ll update this blog post with a diagram showing how the project is outlined and works together!</description>
+    </item>
+  </channel>
+</rss>

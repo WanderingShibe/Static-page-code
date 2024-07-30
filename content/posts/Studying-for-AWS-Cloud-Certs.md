@@ -1,8 +1,10 @@
-+++
-title = 'Studying for AWS Cloud Certs'
-date = 2024-06-20T14:45:40+01:00
-draft = true
-+++
+---
+title: 'Studying for AWS Cloud Certs'
+date: 2024-06-20T14:45:40+01:00
+draft: true
+type: "post"
+showTableOfContents: true
+---
 
 
 This page will be used to outline how I managed to study for and successfully pass the AWS Solutions Associate certification. 

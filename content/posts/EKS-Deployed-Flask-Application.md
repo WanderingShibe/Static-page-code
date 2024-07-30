@@ -1,8 +1,11 @@
-+++
-title = 'EKS Deployed Flask Application'
-date = 2024-07-22T14:19:43+01:00
-draft = true
-+++
+---
+title: 'EKS Deployed Flask Application'
+date: 2024-07-22T14:19:43+01:00
+draft: true
+type: "post"
+tags: ["AWS","Kubernetes", "Cloud"]
+showTableOfContents: true
+---
 
 # Shibazon
 

@@ -1,8 +1,10 @@
-+++
-title = 'Deploying this webpage'
-date = 2024-03-04T00:07:46Z
-draft = false
-+++
+---
+title: 'Deploying this webpage'
+date: 2024-03-04T00:07:46Z
+type: "post"
+tags: ["Devops", "Cloud", "Automation"]
+showTableOfContents: true
+---
 
 ## Introduction
 

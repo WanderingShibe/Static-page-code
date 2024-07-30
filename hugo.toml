@@ -1,19 +1,55 @@
 baseURL = 'http://wanderingshibe.xyz/'
 languageCode = 'en-us'
 title = 'Infinte Ramblings'
-theme = 'm10c'
+theme = 'gokarna'
 
 [params]
   subtitle = 'The Best Widgets on Earth'
-  description = 'My personal blog where I write about Devops related projects and other random things.'
+  description = 'My personal blog where I write about Devops related projects and other random topics!'
+  avatarURL = "/images/avatar.jpg"
+  footer = "Karl Odukwe"
+  enableRobotsTXT = true
+  showPostsOnHomePage = "recent"
+  ShowBackToTopButton = true
+
+  socialIcons = [
+      {name = "linkedin", url = "https://www.linkedin.com/in/karl-odukwe/"},
+      {name = "github", url = "https://github.com/WanderingShibe"},
+      {name = "email", url = "mailto:karlodukwe@gmail.com"},
+    ] 
+ 
+[markup]
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 3
+    ordered = false
 
 
-[[params.social]]
-  icon = "github"
-  name = "My Github"
-  url = "https://github.com/WanderingShibe/"
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    url = "/posts/"
+    post = ""
+    name = "Posts"
+    weight = 1
+    pre = "<span data-feather='book'></span>"
 
-[[params.social]]
-  icon = "linkedin"
-  name = "My Linkdeln"
-  url = "https://www.linkedin.com/in/karl-odukwe/"
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = ""
+    weight = 1
+    pre = "<span data-feather='home'></span>"
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+    pre = "<span data-feather='tag'></span>"
+
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 2
+    pre = "<span data-feather='code'></span>"
